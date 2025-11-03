@@ -138,7 +138,7 @@ MonoBehaviour:
   groundFriction: 100
   gravity: 40
   slideGravity: 5
-  slopeLimit: 80
+  slopeLimit: 40
   useLocalMomentum: 1
   cameraTransform: {fileID: 3641468615010706474}
 --- !u!114 &5603551610329167858
